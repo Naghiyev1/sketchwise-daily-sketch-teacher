@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" role="img" aria-label="Old camera final sketch">
+  <rect width="900" height="640" rx="34" fill="#fffdf7"/>
+  <g stroke="#211b16" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    
+<rect x="150" y="180" width="600" height="270" rx="48" stroke-width="9"/>
+<circle cx="450" cy="318" r="94" stroke-width="9"/>
+<circle cx="450" cy="318" r="45" stroke-width="6" opacity=".72"/>
+<path d="M230 180l48-70h172l38 70" stroke-width="9"/>
+<path d="M635 230h62" stroke-width="7"/>
+<path d="M210 452c142 38 352 38 494 0" stroke-width="5" opacity=".25"/>
+<path d="M400 278c34-26 78-30 116-8M410 370c46 18 90 16 130-8" stroke-width="4" opacity=".30"/>
+
+  </g>
+</svg>

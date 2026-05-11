@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" role="img" aria-label="Sitting fox final sketch">
+  <rect width="900" height="640" rx="34" fill="#fffdf7"/>
+  <g stroke="#211b16" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    
+<path d="M450 90l132 132-72 38-60-36-60 36-72-38z" stroke-width="9"/>
+<path d="M390 260c-88 74-88 205 60 246 148-41 148-172 60-246" stroke-width="9"/>
+<path d="M330 414c-130 18-154-130-60-176 28 94 88 146 180 170" stroke-width="9"/>
+<circle cx="408" cy="206" r="11" fill="#211b16" stroke="none"/>
+<circle cx="492" cy="206" r="11" fill="#211b16" stroke="none"/>
+<path d="M432 238h36M414 306c28 28 68 28 96 0" stroke-width="6" opacity=".72"/>
+<path d="M382 160c28 24 44 54 48 96M518 160c-28 24-44 54-48 96" stroke-width="4" opacity=".28"/>
+
+  </g>
+</svg>

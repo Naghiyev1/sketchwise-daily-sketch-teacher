@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" role="img" aria-label="House plant construction">
+  <rect width="900" height="640" rx="34" fill="#fffdf7"/>
+  <g stroke="#211b16" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    
+<path d="M330 430h240l-38 142H368z" stroke-width="5" stroke-dasharray="14 14" opacity=".35"/>
+<ellipse cx="450" cy="430" rx="122" ry="30" stroke-width="5" stroke-dasharray="14 14" opacity=".35"/>
+<path d="M450 418C398 292 308 238 202 222" stroke-width="6"/>
+<path d="M450 418c20-134 106-212 220-248" stroke-width="6"/>
+<path d="M450 418c-8-100 42-174 132-230" stroke-width="4" opacity=".55"/>
+<text x="86" y="104" fill="#2f6f73" stroke="none" font-family="Inter, Arial" font-size="32" font-weight="800">1. Pot first</text>
+<text x="86" y="150" fill="#2f6f73" stroke="none" font-family="Inter, Arial" font-size="32" font-weight="800">2. Leaf centre lines</text>
+<text x="86" y="196" fill="#2f6f73" stroke="none" font-family="Inter, Arial" font-size="32" font-weight="800">3. Build leaf shapes</text>
+
+  </g>
+</svg>

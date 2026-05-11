@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" role="img" aria-label="Tiny sailboat final sketch">
+  <rect width="900" height="640" rx="34" fill="#fffdf7"/>
+  <g stroke="#211b16" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    
+<path d="M190 390h420l-54 86H242z" stroke-width="9"/>
+<path d="M450 110v280" stroke-width="9"/>
+<path d="M450 124l-176 240h176z" stroke-width="9"/>
+<path d="M462 166l150 198H462z" stroke-width="9"/>
+<path d="M116 520c96-28 164-26 240 2s156 24 320-8" stroke-width="5" opacity=".30"/>
+<path d="M150 560c132-22 262-18 420 2" stroke-width="4" opacity=".25"/>
+<path d="M286 370c78 18 156 18 238-4" stroke-width="4" opacity=".30"/>
+
+  </g>
+</svg>

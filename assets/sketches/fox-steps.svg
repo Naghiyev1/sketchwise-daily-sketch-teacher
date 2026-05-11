@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" role="img" aria-label="Sitting fox construction">
+  <rect width="900" height="640" rx="34" fill="#fffdf7"/>
+  <g stroke="#211b16" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    
+<path d="M450 90l132 132-72 38-60-36-60 36-72-38z" stroke-width="5" stroke-dasharray="14 14" opacity=".35"/>
+<ellipse cx="450" cy="390" rx="118" ry="140" stroke-width="5" stroke-dasharray="14 14" opacity=".35"/>
+<path d="M330 414c-130 18-154-130-60-176" stroke-width="6"/>
+<circle cx="408" cy="206" r="9" fill="#211b16" stroke="none"/>
+<circle cx="492" cy="206" r="9" fill="#211b16" stroke="none"/>
+<text x="86" y="108" fill="#2f6f73" stroke="none" font-family="Inter, Arial" font-size="32" font-weight="800">1. Triangle head</text>
+<text x="86" y="154" fill="#2f6f73" stroke="none" font-family="Inter, Arial" font-size="32" font-weight="800">2. Pear body</text>
+<text x="86" y="200" fill="#2f6f73" stroke="none" font-family="Inter, Arial" font-size="32" font-weight="800">3. Big tail</text>
+
+  </g>
+</svg>

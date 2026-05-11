@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" role="img" aria-label="Acoustic guitar final sketch">
+  <rect width="900" height="640" rx="34" fill="#fffdf7"/>
+  <g stroke="#211b16" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    
+<path d="M450 104v390" stroke-width="5" opacity=".20"/>
+<path d="M450 165
+c-54-70-145-62-178 0
+c-23 43-5 91 42 120
+c-68 56-50 160 40 187
+c50 15 97-7 125-52
+c28 45 75 67 125 52
+c90-27 108-131 40-187
+c47-29 65-77 42-120
+c-33-62-124-70-178 0
+c-17 22-41 22-58 0z" stroke-width="9"/>
+<circle cx="450" cy="330" r="50" stroke-width="8"/>
+<path d="M400 426h100" stroke-width="9"/>
+<path d="M450 165V58h105" stroke-width="9"/>
+<path d="M420 58h170" stroke-width="6"/>
+<path d="M422 60v408M436 60v408M450 60v408M464 60v408M478 60v408" stroke-width="3" opacity=".45"/>
+<path d="M355 225c38 60 40 128 12 205M545 225c-38 60-40 128-12 205" stroke-width="4" opacity=".25"/>
+
+  </g>
+</svg>

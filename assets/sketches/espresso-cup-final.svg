@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" role="img" aria-label="Espresso cup final sketch">
+  <rect width="900" height="640" rx="34" fill="#fffdf7"/>
+  <g stroke="#211b16" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    
+<ellipse cx="420" cy="210" rx="135" ry="42" stroke-width="9"/>
+<path d="M286 216c13 150 43 218 134 218s121-68 134-218" stroke-width="9"/>
+<ellipse cx="420" cy="450" rx="220" ry="42" stroke-width="6" opacity=".58"/>
+<path d="M558 265c88-10 98 100 14 118" stroke-width="9"/>
+<path d="M572 295c42 10 42 55-2 65" stroke-width="5" opacity=".68"/>
+<path d="M342 238c52 24 112 23 160 0" stroke-width="5" opacity=".65"/>
+<path d="M322 296c58 20 132 18 194-2M338 346c48 14 104 14 158-4" stroke-width="4" opacity=".30"/>
+<path d="M258 505c112 28 235 28 350-4" stroke-width="5" opacity=".25"/>
+
+  </g>
+</svg>
