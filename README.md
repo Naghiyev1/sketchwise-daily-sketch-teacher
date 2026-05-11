@@ -46,3 +46,16 @@ v1.1 improves:
 - Larger reference presentation
 - Better paper/card feel
 - Cache bumped to v1.1
+
+
+## v1.2 — Construction Diagram Mode
+
+v1.1 tried to make richer SVG sketches, but some references became weird and uncanny.
+
+v1.2 changes direction:
+- Clean construction diagrams instead of fake finished art
+- Better croissant and guitar shapes
+- Guide lines + final outlines
+- More honest for learning
+- Reference renamed to Construction guide
+- Cache bumped to v1.2
