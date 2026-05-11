@@ -206,3 +206,64 @@ button{font:inherit;cursor:pointer}
   .hero p,.page-head p,.about-card p{font-size:18px}
   .prompt-card{grid-template-columns:1fr}
 }
+
+
+/* v1.1 better reference sketches */
+.hero-sketch,.reference-card,.prompt-thumb{
+  background:
+    radial-gradient(circle at 30% 20%,rgba(208,107,63,.06),transparent 34%),
+    linear-gradient(90deg,rgba(33,27,22,.035) 1px,transparent 1px),
+    linear-gradient(0deg,rgba(33,27,22,.035) 1px,transparent 1px),
+    #fffdf7;
+}
+.hero-sketch{
+  transform:rotate(.4deg);
+}
+.reference-card{
+  transform:rotate(-.25deg);
+}
+.sketch-svg.enhanced{
+  filter:drop-shadow(0 14px 22px rgba(38,26,14,.10));
+}
+.prompt-thumb .sketch-svg.enhanced{
+  filter:none;
+}
+.reference-card::after,.hero-sketch::after{
+  content:"";
+  display:block;
+  height:12px;
+  margin:4px 20% 0;
+  border-radius:50%;
+  background:rgba(33,27,22,.08);
+  filter:blur(6px);
+}
+.lesson-grid{
+  grid-template-columns:1.25fr 1.05fr .9fr;
+}
+.reference-card{
+  min-height:430px;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+}
+.reference-card .eyebrow{
+  margin-bottom:8px;
+}
+.prompt-thumb{
+  min-height:142px;
+  display:grid;
+  place-items:center;
+}
+.prompt-card{
+  background:
+    radial-gradient(circle at 10% 10%,rgba(47,111,115,.06),transparent 40%),
+    rgba(255,255,255,.62);
+}
+.method-card{
+  border-style:dashed;
+}
+@media(max-width:930px){
+  .reference-card{
+    min-height:auto;
+  }
+}
