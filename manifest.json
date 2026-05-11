@@ -1,7 +1,7 @@
 {
   "name": "SketchWise \u2014 Daily Sketch Teacher",
   "short_name": "SketchWise",
-  "description": "A daily sketch prompt teacher with simple references and steps.",
+  "description": "A daily sketch prompt teacher with asset-based references.",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#f7f0e3",
