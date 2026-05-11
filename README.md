@@ -33,3 +33,16 @@ Upload these files to your repo root:
 
 This is intentionally not a complex art course. It is a small habit builder:
 look, draw, repeat.
+
+
+## v1.1 — Better Reference Sketches
+
+The first version worked, but the sketches were too icon-like.
+
+v1.1 improves:
+- More expressive reference drawings
+- More sketchbook-like linework
+- Light shading and texture marks
+- Larger reference presentation
+- Better paper/card feel
+- Cache bumped to v1.1
