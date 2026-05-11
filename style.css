@@ -267,3 +267,36 @@ button{font:inherit;cursor:pointer}
     min-height:auto;
   }
 }
+
+
+/* v1.2 construction diagram mode */
+.sketch-svg.construction{
+  filter:none;
+}
+.hero-sketch,.reference-card,.prompt-thumb{
+  background:
+    linear-gradient(90deg,rgba(33,27,22,.035) 1px,transparent 1px),
+    linear-gradient(0deg,rgba(33,27,22,.035) 1px,transparent 1px),
+    #fffdf7;
+  background-size:24px 24px;
+}
+.prompt-thumb{
+  min-height:150px;
+}
+.prompt-thumb .sketch-svg{
+  transform:scale(.94);
+}
+.reference-card{
+  min-height:430px;
+}
+.reference-card .sketch-svg{
+  transform:scale(.98);
+}
+.reference-card::before{
+  content:"Copy the guide lines first. Final outline second.";
+  display:block;
+  color:var(--muted);
+  font-size:13px;
+  font-weight:850;
+  margin-bottom:10px;
+}
